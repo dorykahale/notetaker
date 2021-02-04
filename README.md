@@ -17,7 +17,7 @@ Notetaker is an application that can be used to write, save, and delete notes. F
 Notetaker GitHub Repository: 
 https://github.com/dorykahale/notetaker
 
-Deployed Application: https://dorykahale.github.io/notetaker/
+Deployed Application: https://stark-reaches-65993.herokuapp.com/
 
   ## Questions
   Contact Information
